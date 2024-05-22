@@ -6,11 +6,12 @@
 
 ---
 
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 <h3>About Me,</h3>
 
-<div align="right" top="500" height="300" width="400">
-  ![gif](https://github.com/sandeepaMallawarachchi/sandeepaMallawarachchi/assets/126542051/ef409e03-2d85-4e48-a0cb-b7c22c542d7e)
-</div>
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
 
 - 🎓 Undergraduate @SLIIT
 
