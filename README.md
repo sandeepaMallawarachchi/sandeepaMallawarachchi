@@ -5,6 +5,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sandeepamallawarachchi&label=Profile%20views&color=0e75b6&style=flat" alt="sandeepamallawarachchi" /> </p>
 
 ---
+## About Me,
 - 🌱 I’m currently learning **MERN stack, Mobile application developing, python**
 
 - 📝 I regularly write articles on [https://beginnerlevelhtml.blogspot.com/2024/01/html-for-beginners.html](https://beginnerlevelhtml.blogspot.com/2024/01/html-for-beginners.html)
