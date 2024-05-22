@@ -96,13 +96,14 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Connect with me:</h3>
+## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"> <b> Connect with me,</b>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/sandeepa-mallawarachchi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandeepa mallawarachchi" height="30" width="40" /></a>
 <a href="https://web.facebook.com/people/Sandeepa-Mallawarachchi/pfbid0fstrqkrWJqqR23Pe9m84x4rHF42KgSpAp2evVvsJnt6a4xoHXDfp9zseRKCz4aHPl/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sandeepa mallawarachchi" height="30" width="40" /></a>
 <a href="https://instagram.com/sandeepa_mallawarachchi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sandeepa_mallawarachchi" height="30" width="40" /></a>
 </p>
+
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <br>
