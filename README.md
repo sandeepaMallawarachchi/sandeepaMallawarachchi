@@ -9,7 +9,7 @@
 <h3>About Me,</h3>
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3371SxdjTHDovbYYpjrgUE&ust=1716489608742000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPC5sJ70oYYDFQAAAAAdAAAAABAE">
 </a>
 
 - 🎓 Undergraduate @SLIIT
