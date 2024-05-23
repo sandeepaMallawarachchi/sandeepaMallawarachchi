@@ -16,7 +16,7 @@
 
 - 💻 Web developing enthuastic
 
-- 💪 Self leaner
+- 💪 Self learner
 
 - 🌱 I’m currently learning **MERN stack, Mobile application developing, python**
 
