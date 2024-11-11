@@ -14,7 +14,7 @@
 
 - 🎓 Undergraduate @SLIIT
 
-- 💻 Web developing enthuastic
+- 💻 Software Engineering Intern @[ABMSZ](https://abmsz.com)
 
 - 💪 Self learner
 
