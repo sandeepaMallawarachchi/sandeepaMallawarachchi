@@ -18,7 +18,7 @@
 
 - 💪 Self learner
 
-- 🌱 I’m currently learning **MERN stack, Mobile application developing, python**
+- 🌱 I’m currently learning **IOT, Machine Learning, python**
 
 - 📝 I regularly write articles on [Blogger.com](https://beginnerlevelhtml.blogspot.com/2024/01/html-for-beginners.html)
 
