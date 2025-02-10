@@ -81,8 +81,7 @@
 <h4>Backend as a Service(BaaS)</h4>
 
 <p>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
-<a href="https://cloudinary.com/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/cloudinary/image/upload/v1696420830/logo/for_white_bg/cloudinary_vertical_blue.png" alt="cloudinary" width="40" height="40"/></a>
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
 </p>
 
