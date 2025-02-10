@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sandeepa Mallawarachchi</h1>
 
-<h3 align="center">A passionate web developer in Srilanka</h3>
+<h3 align="center">A passionate software engineer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sandeepamallawarachchi&label=Profile%20views&color=0e75b6&style=flat" alt="sandeepamallawarachchi" /> </p>
 
@@ -48,6 +48,7 @@
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="react-native" width="40" height="40"/></a>
 </p>
 
 <h4>Backend Development</h4>
@@ -81,6 +82,15 @@
 
 <p>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
+<a href="https://cloudinary.com/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/cloudinary/image/upload/v1696420830/logo/for_white_bg/cloudinary_vertical_blue.png" alt="cloudinary" width="40" height="40"/></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
+</p>
+
+<h4>AI & Machine Learning</h4>
+
+<p>
+<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
 </p>
 
 <h4>Software</h4>
