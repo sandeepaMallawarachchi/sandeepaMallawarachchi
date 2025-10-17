@@ -14,11 +14,11 @@
 
 - 🎓 Undergraduate @SLIIT
 
-- 💻 Software Engineering Intern @[ABMSZ](https://abmsz.com)
+- 💻 Software Engineer @[Cloude Design](https://cloudedesign.com/)
 
 - 💪 Self learner
 
-- 🌱 I’m currently learning **IOT, Machine Learning, python**
+- 🌱 I’m currently learning **IOT, Machine Learning, AI**
 
 - 📝 I regularly write articles on [Blogger.com](https://beginnerlevelhtml.blogspot.com/2024/01/html-for-beginners.html)
 
