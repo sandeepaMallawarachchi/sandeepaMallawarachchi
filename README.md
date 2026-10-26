@@ -12,17 +12,17 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🎓 Undergraduate @SLIIT
+- 🎓 Bsc (Hons.) Information Technology specialized in Software Engineering @SLIIT
 
 - 💻 Software Engineer @[Cloude Design](https://cloudedesign.com/)
 
 - 💪 Self learner
 
-- 🌱 I’m currently learning **IOT, Machine Learning, AI**
+- 🌱 I’m currently learning **Autonomus Software Engineering, Dev Ops, Agentic AI**
 
 - 📝 I regularly write articles on [Blogger.com](https://beginnerlevelhtml.blogspot.com/2024/01/html-for-beginners.html)
 
-- 💬 Ask me about **React, Node, MongoDB, Expressjs, JavaScript, HTML & CSS, C language and Java**
+- 💬 Ask me about **Next.js React.js, Node, MongoDB, MySql, Expressjs, JavaScript, Typescript & Tailwind CSS**
 
 - 📫 How to reach me **sandeepamallawarachchi444@gmail.com**
 
