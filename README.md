@@ -42,8 +42,8 @@
 | Project | What it does | Built with |
 |---|---|---|
 | **[WorkCopilot](https://github.com/sandeepaMallawarachchi/workcopilot)** · [Live](https://workcopilotai.vercel.app) | A personal AI work assistant inside WhatsApp. Ask about GitHub/GitLab commits, PRs, pipelines or your inbox in English, Sinhala or Singlish and get grounded answers with source links. Read-only by design, with per-contact access and encrypted credentials. | Next.js · Supabase Edge Functions · WhatsApp Cloud API · Groq LLM |
-| **ProjectLens AI** | VS Code extension that analyzes a project's tech stack, code quality, security concerns and production readiness. Includes **Prompt Guard**, which catches API keys, tokens and personal data before they reach AI coding tools. Available on the VS Code Marketplace & Open VSX. | TypeScript · Node.js · React · Next.js · Supabase |
-| **[FieldMeasure](https://github.com/sandeepaMallawarachchi/fieldmeasure)** | Mobile-first PWA that estimates land area and perimeter as you walk the boundary using GPS. | TypeScript · PWA |
+| **[ProjectLens AI](https://projectlensai.vercel.app)** | VS Code extension that analyzes a project's tech stack, code quality, security concerns and production readiness. Includes **Prompt Guard**, which catches API keys, tokens and personal data before they reach AI coding tools. Available on the VS Code Marketplace & Open VSX. | TypeScript · Node.js · React · Next.js · Supabase |
+| **[FieldMeasure](https://github.com/sandeepaMallawarachchi/fieldmeasure)** · [Live](https://fieldmeasure.vercel.app) | Mobile-first PWA that estimates land area and perimeter as you walk the boundary using GPS. | TypeScript · PWA |
 | **LuxeVista Resort** | Smart hospitality booking mobile app. | Mobile |
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools</b>
