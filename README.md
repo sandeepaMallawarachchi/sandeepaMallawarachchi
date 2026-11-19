@@ -16,7 +16,7 @@
 ## 👋 **About me**
 
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 </a>
 
 - 💻 Software Engineer at **[Cloud-eDesign](https://cloudedesign.com/)** (Sep 2025 – present)
@@ -28,8 +28,6 @@
 - 🚀 I build scalable, maintainable, user-centric web apps with clean code and solid architecture
 
 - 🌱 Currently exploring **Agentic AI, Autonomous Software Engineering & DevOps**
-
-- 📝 I write articles on [Blogger](https://beginnerlevelhtml.blogspot.com/2024/01/html-for-beginners.html)
 
 - 💬 Ask me about **Next.js, React.js, Node.js, Express.js, TypeScript, MongoDB, MySQL, Supabase, AWS & Tailwind CSS**
 
