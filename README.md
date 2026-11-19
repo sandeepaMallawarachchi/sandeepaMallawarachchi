@@ -40,10 +40,10 @@
 
 | Project | What it does | Built with |
 |---|---|---|
-| **[WorkCopilot](https://github.com/sandeepaMallawarachchi/workcopilot)** · [Live](https://workcopilotai.vercel.app) | A personal AI work assistant inside WhatsApp. Ask about GitHub/GitLab commits, PRs, pipelines or your inbox in English, Sinhala or Singlish and get grounded answers with source links. Read-only by design, with per-contact access and encrypted credentials. | Next.js · Supabase Edge Functions · WhatsApp Cloud API · Groq LLM |
-| **[ProjectLens AI](https://projectlensai.vercel.app)** | VS Code extension that analyzes a project's tech stack, code quality, security concerns and production readiness. Includes **Prompt Guard**, which catches API keys, tokens and personal data before they reach AI coding tools. Available on the VS Code Marketplace & Open VSX. | TypeScript · Node.js · React · Next.js · Supabase |
-| **[FieldMeasure](https://github.com/sandeepaMallawarachchi/fieldmeasure)** · [Live](https://fieldmeasure.vercel.app) | Mobile-first PWA that estimates land area and perimeter as you walk the boundary using GPS. | TypeScript · PWA |
-| **LuxeVista Resort** | Smart hospitality booking mobile app. | Mobile |
+| <img src="https://raw.githubusercontent.com/sandeepaMallawarachchi/workcopilot/main/public/favicon.png" width="48" alt="WorkCopilot logo"/><br/>**[WorkCopilot](https://github.com/sandeepaMallawarachchi/workcopilot)** · [Live](https://workcopilotai.vercel.app) | A personal AI work assistant inside WhatsApp. Ask about GitHub/GitLab commits, PRs, pipelines or your inbox in English, Sinhala or Singlish and get grounded answers with source links. Read-only by design, with per-contact access and encrypted credentials. | Next.js · Supabase Edge Functions · WhatsApp Cloud API · Groq LLM |
+| <img src="https://projectlensai.vercel.app/logo.svg" width="48" alt="ProjectLens AI logo"/><br/>**[ProjectLens AI](https://projectlensai.vercel.app)** | VS Code extension that analyzes a project's tech stack, code quality, security concerns and production readiness. Includes **Prompt Guard**, which catches API keys, tokens and personal data before they reach AI coding tools. Available on the VS Code Marketplace & Open VSX. | TypeScript · Node.js · React · Next.js · Supabase |
+| <img src="https://raw.githubusercontent.com/sandeepaMallawarachchi/fieldmeasure/main/public/icons/icon-192.png" width="48" alt="FieldMeasure logo"/><br/>**[FieldMeasure](https://github.com/sandeepaMallawarachchi/fieldmeasure)** · [Live](https://fieldmeasure.vercel.app) | Mobile-first PWA that estimates land area and perimeter as you walk the boundary using GPS. | TypeScript · PWA |
+| <img src="https://raw.githubusercontent.com/sandeepaMallawarachchi/smart-lms/main/frontend/public/logo2.png" width="48" alt="Smart LMS logo"/><br/>**[Smart LMS](https://github.com/sandeepaMallawarachchi/smart-lms)** | AI-powered intelligent learning platform built as our SLIIT final-year research project (25-26J-468). Microservices for assignment submission with version control and AI feedback, academic integrity monitoring, code and learning analytics, and a learning assistant chatbot. | Next.js · TypeScript · Spring Boot · Python · Docker |
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools</b>
 
@@ -90,7 +90,7 @@
 <h4>Cloud & DevOps</h4>
 
 <p>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/></a>
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@2.10.0/dark/aws-color.png"><img src="https://unpkg.com/@lobehub/icons-static-png@2.10.0/light/aws-color.png" alt="aws" width="40" height="40"/></picture></a>
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a>
   <a href="https://vercel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="vercel" width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
@@ -101,6 +101,10 @@
 <p>
   <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a>
+<a href="https://www.anthropic.com/claude" target="_blank" rel="noreferrer"><img src="https://unpkg.com/@lobehub/icons-static-png@2.10.0/dark/claude-color.png" alt="claude" width="40" height="40"/></a>
+<a href="https://openai.com/" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@2.10.0/dark/openai.png"><img src="https://unpkg.com/@lobehub/icons-static-png@2.10.0/light/openai.png" alt="openai" width="40" height="40"/></picture></a>
+<a href="https://gemini.google.com/" target="_blank" rel="noreferrer"><img src="https://unpkg.com/@lobehub/icons-static-png@2.10.0/dark/gemini-color.png" alt="gemini" width="40" height="40"/></a>
+<a href="https://groq.com/" target="_blank" rel="noreferrer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://unpkg.com/@lobehub/icons-static-png@2.10.0/dark/groq.png"><img src="https://unpkg.com/@lobehub/icons-static-png@2.10.0/light/groq.png" alt="groq" width="40" height="40"/></picture></a>
 </p>
 
 <h4>Tools</h4>
@@ -109,6 +113,8 @@
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
+<a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="40" height="40"/></a>
+<a href="https://swagger.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="swagger" width="40" height="40"/></a>
 </p>
 
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"> <b> Connect with me</b>
@@ -133,3 +139,9 @@
     </td>
   </tr>
 </table>
+
+## 📅 Contribution Heatmap
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/sandeepaMallawarachchi" alt="Sandeepa's GitHub contribution heatmap" />
+</p>
